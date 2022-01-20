@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -719900965,
-        "Kind": "Components.Component",
-        "Name": "FirstAppBlazor.Pages.Index",
-        "AssemblyName": "FirstAppBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstAppBlazor.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 576268953,
-        "Kind": "Components.Component",
-        "Name": "FirstAppBlazor.Pages.Index",
-        "AssemblyName": "FirstAppBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FirstAppBlazor.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstAppBlazor.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1294638331,
         "Kind": "Components.Component",
         "Name": "FirstAppBlazor.Pages.Counter",
@@ -127,6 +94,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FirstAppBlazor.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -719900965,
+        "Kind": "Components.Component",
+        "Name": "FirstAppBlazor.Pages.Index",
+        "AssemblyName": "FirstAppBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstAppBlazor.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 576268953,
+        "Kind": "Components.Component",
+        "Name": "FirstAppBlazor.Pages.Index",
+        "AssemblyName": "FirstAppBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstAppBlazor.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstAppBlazor.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2003403081,
+        "Kind": "Components.Component",
+        "Name": "FirstAppBlazor.Pages.Todo",
+        "AssemblyName": "FirstAppBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstAppBlazor.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 485334363,
+        "Kind": "Components.Component",
+        "Name": "FirstAppBlazor.Pages.Todo",
+        "AssemblyName": "FirstAppBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstAppBlazor.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstAppBlazor.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16674,6 +16707,11 @@
     {
       "FilePath": "c:\\Users\\MSI\\Documents\\FirstAppBlazor\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\MSI\\Documents\\FirstAppBlazor\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
